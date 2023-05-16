@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+You're welcome! I'm glad to have visited. 
+This is the result of our final project in web design class. 
+We created a website about the Faculty of Theology at Klabat University.
